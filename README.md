@@ -1,0 +1,2 @@
+# Marini-et-al_2017_AttPerceptPsychophys
+This repository contains the Matlab/Psychtoolbox code and dataset for the paper "Task-irrelevant distractors in the delay period interfere selectively with visual short-term memory for spatial locations" by Marini, Scott, Aron &amp; Ester published in Attention, Perception and Psychophysics. Specifically, the repository contains the code for running the experiments, the full dataset, and the code for replicating the statistical analyses and for generating the figures in the published article.
